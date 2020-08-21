@@ -1,0 +1,14 @@
+@import "~bootstrap/scss/bootstrap";
+.login-wrapper .form-control{
+    border-bottom:none;
+}
+ul {
+    list-style: none;
+}   
+.help-block{
+    display: block;
+    padding: 12px 0px;
+    font-size: 12px;
+    color: #aaa;
+    font-style: italic;
+}

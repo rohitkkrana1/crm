@@ -1,0 +1,32 @@
+.DynamicFilter{
+    #Cdate,#Mdate{
+        font-size: 11px;
+    }
+    .MuiTypography-body1{
+        font-size: 0.8rem !important;
+    }
+    .MuiSvgIcon-root{
+        font-size: 1rem !important;
+    }
+    .PrivateSwitchBase-root-1{
+        padding-bottom:3px !important;
+        padding-top:3px !important;
+    }
+    .alignleft {
+        float: left;
+    }
+    .MuiFormControlLabel-label{
+        display: block;
+        width: 100%;
+    }
+    .alignright {
+        float: right;
+        font-size: 75%;
+        color:#888;
+        font-weight: bold;
+    }
+    .MuiFormControlLabel-root{
+        margin-right: 0px;
+    }
+
+}
